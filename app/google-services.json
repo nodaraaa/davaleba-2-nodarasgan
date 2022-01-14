@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582218183622",
+    "project_id": "nodaraant-qvizi",
+    "storage_bucket": "nodaraant-qvizi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582218183622:android:74ae6a702171875255b8c7",
+        "android_client_info": {
+          "package_name": "com.example.nodaraantqvizi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582218183622-rg0dd42pm7sbrb40qvrcgu8h6tj516s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6V5KpS7xxsb9xB4Fc5JbTxDFMkZJ_SLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582218183622-rg0dd42pm7sbrb40qvrcgu8h6tj516s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
